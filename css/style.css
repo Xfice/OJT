@@ -1,0 +1,46 @@
+
+.pad {
+	padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+.hdr{
+	color:yellow;
+}
+$enable-shadows
+.pad1{
+	padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+}
+
+.margin{
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+.margin1{
+	margin-left: 5px;
+	margin-right: 5px;
+	
+}
+.border1{
+	border:solid green 2px;
+	/*border-bottom:0px;*/
+	border-radius: 5px 5px 0px 0px;
+}
+.border2{
+	border-left:solid green 2px;
+	border-right:solid green 2px;
+	border-bottom:solid green 2px;
+}
+.border3{
+	border: solid green 1px;
+}
+.border4{
+	border-right:solid green 2px;
+	border-bottom:solid green 2px;
+}
